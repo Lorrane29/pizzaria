@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261969732283",
+    "firebase_url": "https://lorrane-pizza.firebaseio.com",
+    "project_id": "lorrane-pizza",
+    "storage_bucket": "lorrane-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261969732283:android:1d571439fb5a20d1cb3f9e",
+        "android_client_info": {
+          "package_name": "br.com.lorrane.lorrane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261969732283-9cto7vccvvfsbo594bt6q9nt2lt8k1j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvnz3VVzYApuFMHZ5mcfQbOIOdSc-jzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261969732283-9cto7vccvvfsbo594bt6q9nt2lt8k1j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
